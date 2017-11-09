@@ -1,5 +1,3 @@
 this is a test
 
 testing using source tree interface
-
-testing with interface [2]
